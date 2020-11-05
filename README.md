@@ -48,7 +48,7 @@
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="">View Demo</a>
+    <a href="https://blissful-bartik-07c6ae.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/enraiha0307/Steganography/issues">Report Bug</a>
     ·
@@ -87,7 +87,7 @@
 
 Akanksha Gahalot - [@AkankshaGahalot](https://twitter.com/AkankshaGahalot) 
 
-Project Link: [https://github.com/enraiha0307/BackgroundChange-OnScroll](https://github.com/enraiha0307/Steganography.git)
+Project Link: [https://github.com/enraiha0307/Steganography](https://github.com/enraiha0307/Steganography.git)
 
 
 
