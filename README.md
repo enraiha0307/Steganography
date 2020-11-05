@@ -37,7 +37,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/enraiha0307/Steganography.git">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Steganography</h3>
@@ -65,17 +65,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot_2020-09-14 Background Change](https://user-images.githubusercontent.com/26249973/93087128-c3a36400-f6b5-11ea-9714-1f449a3f0251.png)
 
 
 
-`enraiha0307`, `BackgroundChange-OnScroll`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
+`enraiha0307`, `Steganography`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
 
 
 ### Built With
 
 * [HTML]
-* [CSS]
+* [Bootstrap]
 * [Javascript]
 
 
