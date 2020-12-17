@@ -66,10 +66,10 @@
 ## About The Project
 
 
+![Screenshot from 2020-12-17 12-34-19](https://user-images.githubusercontent.com/26249973/102455493-b5beff80-4065-11eb-9bed-99134ac67977.png)
 
 
 `enraiha0307`, `Steganography`, `@AkankshaGahalot`, `akankshagahlot0307@gmail.com`
-
 
 ### Built With
 
