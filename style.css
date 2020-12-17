@@ -1,0 +1,42 @@
+.cont {
+    display: flex;
+    /* height: 90vh; */
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img-cont {
+    margin-top: 5rem;
+    display: flex;
+
+}
+
+.img1 {
+    margin-right: 15rem;
+    margin-bottom: 10rem;
+}
+
+img {
+    width: 300px;
+}
+
+
+.opa {
+    opacity: 0;
+    width: 10px;
+}
+
+#decoded{
+    height: 10vh;
+    margin: 10px;
+    background-color: rgb(223, 220, 215);
+    padding: 10px 22px;
+}
+header{
+    margin:10px;
+    padding: 10px;
+    justify-self: center;
+    text-align: center;
+}

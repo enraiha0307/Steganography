@@ -43,12 +43,12 @@
   <h3 align="center">Steganography</h3>
 
   <p align="center">
-  Code for implementing steganography in alpha channel (LSB Technique).
+  Code for implementing steganography using alpha channel (LSB Technique).
     <br />
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://blissful-bartik-07c6ae.netlify.app/">View Demo</a>
+    <a href="#">View Demo</a>
     ·
     <a href="https://github.com/enraiha0307/Steganography/issues">Report Bug</a>
     ·
@@ -74,7 +74,7 @@
 ### Built With
 
 * [HTML]
-* [Bootstrap]
+* [CSS]
 * [Javascript]
 
 
